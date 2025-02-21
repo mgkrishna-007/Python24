@@ -3,8 +3,6 @@
 
 ## Gitcommands
 
-### To commit the changes
-
 
 ### To clone a repository,
     git clone https URL 
