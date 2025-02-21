@@ -16,4 +16,7 @@
 ### To Push the change
     git push origin <sourceBranch>
 
+### To check/verify the modified content in existing file,
+    git diff <filename>
+
     
